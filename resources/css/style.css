@@ -1,0 +1,98 @@
+body{
+  background-color: rgb(0, 0, 0);
+  background-image: url(/public/media/NewYork.avif);
+  background-attachment: fixed;
+  background-size: cover;
+}
+.bgUno{
+  background-color: rgb(234, 173, 119);
+  width: 100%;
+  height: 700px;
+  border-radius: 30px;
+  
+}
+.col-5{
+  width: 490px;
+}
+
+.imgCard{
+  border-radius: 20px 0px 0px 20px;
+}
+
+.textNav{
+  z-index: 1;
+  font-size: 20px;
+  color: rgb(233, 172, 172);
+}
+  .invert{
+    width: 65px;
+  }
+  .contOne{
+    height: 10px;
+  }
+
+  .contForm{
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+    background-image: url('../../public/media/street.avif');
+    border-radius: 20px;
+  }
+
+
+  
+
+  
+  .icon{
+    margin-bottom: 3px;
+    margin-left: 8px;
+  }
+
+.contUno{
+margin-top: 160px;
+background-color: rgb(216, 192, 239);
+ border-radius: 20px;
+}
+.cardBlade{
+  background-color: rgb(216, 192, 239);
+}
+.alert{
+  margin-top: 90px;
+}
+
+.btn-1{
+  border-radius: 4px 0px 0px 4px ;
+}
+.btn-2{
+  border-radius: 0px  4px 4px 0px;
+}
+
+section{
+  background-image: url('/./public/media/streetwear.avif');
+  background-repeat: no-repeat;
+  background-size: auto;
+  width: 100%;
+  height: 100%;
+  border-radius: 150px 0px 0px 150px;
+}
+.bgSec {
+  margin-top: 100px;
+  background-color: rgb(223, 116, 16);
+  background-image: url(/public/media/adidas-logo-adidas-icon-transparent-free-png.webp);
+  border-radius: 20px;
+  height: 80vh;
+
+}
+
+.divHome{
+  
+  background-color: rgb(223, 116, 16);
+  background-image: url(/public/media/logonike.png);
+
+  background-size: 710px;
+  height: 792px;
+  border-radius: 150px 0px 0px 150px;
+  transition: 1ms;
+ 
+}
+
+
